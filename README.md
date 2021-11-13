@@ -1,4 +1,4 @@
-# passwordGenerates
+# Password Generates Program
 A created program that generates a password by using Python in Colaboratory
 
 Let's see how it work on
